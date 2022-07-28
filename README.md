@@ -1,4 +1,4 @@
-# frist_step_app_msp
+#NEWS_APP
 
 A new Flutter project.
 
