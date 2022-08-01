@@ -10,6 +10,6 @@ validates sign up and registrati.
 
 using Firebase, Block, and API.
 
-*Team members:*.
-*mariam ahmed*.
+*Team members:*
+*mariam ahmed* and 
 *sohyla tarek*.
